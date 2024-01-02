@@ -1,0 +1,17 @@
+@import "../../global.scss";
+
+
+.navbar__link{
+  padding: 10px 20px 10px 20px;
+  // background-color: #fce095;
+  background-color: #f1f1f1;
+  border-radius: 12px;
+  transition: all 0.3s;
+  cursor: pointer;
+}
+
+
+
+.navbar__link:hover{
+  background-color: #ffc324;
+}
